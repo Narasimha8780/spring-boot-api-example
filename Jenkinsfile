@@ -1,7 +1,7 @@
 pipeline {
     agent any 
       tools {
-    	maven "mvn 363"
+    	maven "Maven3"
         gradle "g6.3"
     } 
        
